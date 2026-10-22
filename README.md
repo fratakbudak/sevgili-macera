@@ -1,3 +1,5 @@
+https://fratakbudak.github.io/sevgili-macera/
+
 # 🇨🇭 Senin İçin İsviçre — Gece Yolcusu (Für Besjana)
 
 Bu proje, **Yapay Zekâ Destekli Kodlama** eğitimim kapsamında OpenCode platformu üzerinde geliştirdiğim, web tabanlı interaktif bir hikaye ve platform oyunudur. Proje hem teknik becerilerimi sergilemek hem de sevgilime (Besjana) özel, anlamlı bir hediye sunmak amacıyla tasarlanmıştır.
@@ -25,4 +27,4 @@ Eğitimini aldığım Yapay Zekâ Destekli Kodlama tekniklerini bu projede uçta
   - `SHIFT` — Atıl
   - `1, 2, 3` — Seçim Yap
 
-https://fratakbudak.github.io/sevgili-macera/
+
