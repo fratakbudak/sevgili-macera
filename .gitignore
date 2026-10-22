@@ -1,0 +1,9 @@
+# Yedek / geçici dosyalar
+*.bak
+*.tmp
+Thumbs.db
+desktop.ini
+
+# Editör
+.vscode/
+.idea/
