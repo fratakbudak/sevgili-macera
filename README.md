@@ -24,4 +24,5 @@ Eğitimini aldığım Yapay Zekâ Destekli Kodlama tekniklerini bu projede uçta
   - `↓ / S` — Eğil
   - `SHIFT` — Atıl
   - `1, 2, 3` — Seçim Yap
+
 https://fratakbudak.github.io/sevgili-macera/
