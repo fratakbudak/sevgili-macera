@@ -1,30 +1,26 @@
-# Sevgili Macera 💕
+# 🇨🇭 Senin İçin İsviçre — Gece Yolcusu (Für Besjana)
 
-Bir 2D yandan kaydırmalı platform oyunu. Fırat, İsviçre'nin Besjana'sına kavuşmak için
-kar ve karanlıktan geçer.
+Bu proje, **Yapay Zekâ Destekli Kodlama** eğitimim kapsamında OpenCode platformu üzerinde geliştirdiğim, web tabanlı interaktif bir hikaye ve platform oyunudur. Proje hem teknik becerilerimi sergilemek hem de sevgilime (Besjana) özel, anlamlı bir hediye sunmak amacıyla tasarlanmıştır.
 
-- Almanca diyaloglar, Türkçe altyazılar
-- 8 bölüm: Sokaklar, Yol, Havalimanı, Uçuş, Dağ Geçidi, Köy, Zirve, Buluşma
-- Çok odalı ev finali (sarılıp öpüşme + yatak sahnesi)
-- Şiir arşivi (Almanca şiirler)
-- Prosedürel müzik ve ses efektleri
-- **Telefon için dokunmatik kontroller**
+## 📖 Oyunun Hikayesi & Konsepti
+İsviçre'de küçük bir dağ otelinde kellnerin (garson) olarak çalışan Besjana, yoğun iş temposundan dolayı çok yorgundur. Onun hasretine dayanamayan Fırat, karlarla kaplı İsviçre dağlarını, sokakları ve geçitleri aşarak ona ulaşmaya çalışır. Oyun; sokaklardan başlayıp dağın zirvesindeki buluşmaya uzanan 8 farklı bölümden, Almanca-Türkçe diyaloglardan, toplanabilir şiir dizelerinden ve ortak anılardan oluşur.
 
-## Oynanış
+---
 
-`index.html` dosyasını tarayıcıda açın. Yayında olan sürüm:
-**https://fratakbudak.github.io/sevgili-macera/**
+## 🤖 Yapay Zekâ (AI) ve Geliştirme Süreci
+Eğitimini aldığım Yapay Zekâ Destekli Kodlama tekniklerini bu projede uçtan uca uyguladım. Oyunun yapım aşamasında yapay zekadan şu alanlarda "geliştirici asistanı" olarak yararlanılmıştır:
 
-Klavye:
-- **← / →** veya **A / D** — hareket
-- **Boşluk / ↑ / W** — zıpla (çift zıplama)
-- **↓ / S** — eğil
-- **Shift** — hızlı atıl (dash)
+- **Kodlama ve Algoritma Yönetimi:** OpenCode üzerinde geliştirilen oyunun mekanikleri (karakter zıplama/eğilme, enerji/soğuk barı yönetimi, bölüm geçiş mantıkları) ve hata ayıklama (debugging) süreçleri AI kod asistanları yardımıyla optimize edilmiştir.
+- **İçerik ve Dil Entegrasyonu:** Oyundaki Almanca diyalogların, Türkçe çevirilerin ve oyun içi atmosferi besleyen şiirsel metinlerin (Das Gedicht dieser Nacht) kurgulanmasında ve yerelleştirilmesinde dil modellerinden destek alınmıştır.
+- **Prompt Mühendisliği (Prompt Engineering):** AI modellerine verilen yapılandırılmış komutlar sayesinde oyun kodları modüler hale getirilmiş, mobil uyumluluk (cihazı yan çevirme uyarısı) ve duraklatma menüsü gibi kullanıcı deneyimi (UX) elementleri başarıyla entegre edilmiştir.
 
-Telefon: ekranın altındaki butonlar (◀ ▶ hareket, ▲ zıpla, ▼ eğil, ⚡ dash).
-Daha iyi deneyim için telefonu yan çevirin.
+---
 
-## GitHub Pages
-
-**Settings → Pages → Branch: main / root → Save**
-Yayın adresi: `https://fratakbudak.github.io/sevgili-macera/`
+## 🎮 Oyun Özellikleri & Kontroller
+- **Mekanikler:** Moral ve Enerji/Soğuk barlarıyla dinamik hayatta kalma yönetimi.
+- **Ekstra İçerikler:** Oyun boyunca açılan Sohbet Arşivi, Ortak Anılar ve parça parça toplanan Şiir Sistemi.
+- **Kontroller:** 
+  - `SPACE / ↑` — Zıpla
+  - `↓ / S` — Eğil
+  - `SHIFT` — Atıl
+  - `1, 2, 3` — Seçim Yap
